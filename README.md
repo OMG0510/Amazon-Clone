@@ -16,6 +16,10 @@ A responsive front-end clone of the Amazon homepage built using HTML and CSS onl
 - **CSS3**
 - **Font Awesome** (for icons)
 
+## 📸 Preview
+
+Visit: https://om-amazon-clone.netlify.app/
+
 ## 🚀 Getting Started
 
 1. Clone the repository
