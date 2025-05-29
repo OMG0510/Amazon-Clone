@@ -19,11 +19,10 @@ A responsive front-end clone of the Amazon homepage built using HTML and CSS onl
 ## 🚀 Getting Started
 
 1. Clone the repository
+
    ```bash
    git clone https://github.com/OMG0510/Amazon-Clone.git
    ```
-
-````
 
 2. Open `index.html` in your browser.
 
@@ -47,10 +46,10 @@ This project was built as a practice exercise to improve my understanding of CSS
 
 ## 🧠 What I Learned
 
-* Advanced CSS layouting (Flexbox)
-* Hover effects and border animations
-* Responsive structuring without JavaScript
-* Improved UI/UX replication skills
+- Advanced CSS layouting (Flexbox)
+- Hover effects and border animations
+- Responsive structuring without JavaScript
+- Improved UI/UX replication skills
 
 ## 📌 Note
 
@@ -59,7 +58,3 @@ This is a static clone built for learning purposes only and is not affiliated wi
 ---
 
 Made with ❤️ by [Om Gaikwad](https://github.com/OMG0510)
-
-```
-
-````
